@@ -25,3 +25,7 @@
 Created with ❤️ by **Shifanth**
 
 *Senior Software Developer, Web Engineer, and UI/UX Designer*
+
+
+
+![Quote Generator (1)](https://github.com/shifanthjasim/Quote-Generator/assets/60750985/b20a4f84-8f00-4960-b2c8-23e28a066d30)
