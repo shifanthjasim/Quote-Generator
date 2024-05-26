@@ -1,5 +1,7 @@
 <h1 align="center">Quote Generator</h1>
 
+<h4 align="center">For an live demo please visit :- https://majestic-palmier-bd1478.netlify.app </h4>
+
 <p align="center">A simple web application that generates random quotes to inspire and motivate users.</p>
 
 ## Features
