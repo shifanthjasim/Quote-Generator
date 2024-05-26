@@ -1,4 +1,6 @@
-# Quote Generator
+# Quote Generator ## By Shifanth
+
+For a live preview of the App please visit :- https://majestic-palmier-bd1478.netlify.app/
 
 A simple web application that generates random quotes to inspire and motivate users.
 
